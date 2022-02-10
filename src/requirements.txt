@@ -2,4 +2,4 @@ click==6.7
 Pillow==3.1.2
 opencv-python==3.4.0.12
 keras==2.1.4
-tensorflow==1.6.0
+tensorflow==2.5.3
